@@ -1,0 +1,27 @@
+# Virtual environments
+venv*/
+venv_ppgeec-coauthorship-network/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# VSCode settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environments and logs
+.env
+*.log
+
+# Output or export folders
+output/
